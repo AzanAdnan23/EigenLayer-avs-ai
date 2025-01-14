@@ -8,9 +8,9 @@ https://youtu.be/XjraoZtpuKk?si=r5Yz92BreLzbBG8K
 
 ### Steps
 
-• Users can submit text content on-chain
-• Off-chain operators run this content through an AI model (Llama Guard) to check if it's safe
-• Operators then submit their results back on-chain
+- Users can submit text content on-chain.
+- Off-chain operators run this content through an AI model (Llama Guard) to check if it's safe.
+- Operators then submit their results back on-chain.
 
 ### Commands:
 
